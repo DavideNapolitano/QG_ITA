@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="">
+</p>
+
+
 # QG_ITA
 Question Generator for Italian Language
-<p align="center">
-  <img src="https://github.com/DavideNapolitano/NER_ITA/blob/main/images/NER%20ITA%202.png">
-</p>
 
 ## Description
 Make a Question Generation model for TIM customers surveys
