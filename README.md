@@ -10,7 +10,7 @@ Question Generator for Italian Language
 Make a Question Generation model for TIM customers surveys
 
 ## Related Works
-Existing models and papers for QG
+### Existing models and papers for QG
 
 - https://huggingface.co/iarfmoose/t5-base-question-generator - https://github.com/AMontgomerie/question_generator
 - https://github.com/microsoft/unilm/tree/master/unilm
@@ -19,10 +19,23 @@ Existing models and papers for QG
 - https://www.questgen.ai/
 - https://github.com/ramsrigouthamg/Questgen.ai
 - https://github.com/KristiyanVachev/Question-Generation
+- https://gpt-index.readthedocs.io/en/latest/examples/evaluation/QuestionGeneration.html
 
-Question Answering
+### Question Answering
 
+- https://huggingface.co/docs/transformers/main/tasks/question_answering
 - https://github.com/stevezheng23/xlnet_extension_tf
+- https://github.com/openai/openai-cookbook/tree/main/examples
+- https://medium.com/@murtuza753/using-llama-2-0-faiss-and-langchain-for-question-answering-on-your-own-data-682241488476
+- https://deci.ai/blog/fine-tune-llama-2-with-lora-for-question-answering/
+
+### Other
+- https://arxiv.org/pdf/2307.07164.pdf
+- https://arxiv.org/pdf/2306.04508v1.pdf
+- https://betterprogramming.pub/building-context-aware-question-answering-systems-with-llms-b6f2b6e387ec
+- https://www.linkedin.com/pulse/multi-hop-question-answering-llms-knowledge-graphs-wisecube/
+- https://www.wisecube.ai/blog/combining-large-language-models-and-knowledge-graphs/
+- https://arxiv.org/abs/2309.00841
 
 
 ## Datasets
@@ -37,9 +50,13 @@ QA Dataset
 - mFAQ: https://huggingface.co/datasets/clips/mfaq
 
 Summary: https://nlpprogress.com/english/question_answering.html
+Collection: 
+- https://parl.ai/docs/tasks.html#qa-tasks
+- https://nlpprogress.com/english/question_answering.html
 
 ## Metrics
 - https://arxiv.org/pdf/2211.01482.pdf
+- ROUGE-L, BLEU, METEOR, Sentence Mover's Similarity, BERTScore
 
 ## Others
-https://docs.google.com/presentation/d/1cML2FBrevPF0BtQu5QH_BL3dUbfn0egYyhTbOgwqlbA/edit?ref=ruder.io#slide=id.gf9273fa42a_4_186
+DeepMind presentation: https://docs.google.com/presentation/d/1cML2FBrevPF0BtQu5QH_BL3dUbfn0egYyhTbOgwqlbA/edit?ref=ruder.io#slide=id.p1
