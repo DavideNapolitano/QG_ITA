@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="">
+  <img src="https://github.com/DavideNapolitano/QG_ITA/blob/main/images/QG.png">
 </p>
 
 
