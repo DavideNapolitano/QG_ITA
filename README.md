@@ -4,7 +4,7 @@
 
 
 # QG_ITA
-Question Generator for theItalian Language
+Question Generator for the Italian Language
 
 ## Description
 Make a Question Generation model for TIM customers surveys
