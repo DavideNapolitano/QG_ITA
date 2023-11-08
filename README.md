@@ -20,6 +20,8 @@ Make a Question Generation model for TIM customers surveys
 - https://github.com/ramsrigouthamg/Questgen.ai
 - https://github.com/KristiyanVachev/Question-Generation
 - https://gpt-index.readthedocs.io/en/latest/examples/evaluation/QuestionGeneration.html
+- https://amontgomerie.github.io/2020/07/30/question-generator.html
+- https://arxiv.org/pdf/1909.05017.pdf
 
 ### Question Answering
 
@@ -36,6 +38,9 @@ Make a Question Generation model for TIM customers surveys
 - https://www.linkedin.com/pulse/multi-hop-question-answering-llms-knowledge-graphs-wisecube/
 - https://www.wisecube.ai/blog/combining-large-language-models-and-knowledge-graphs/
 - https://arxiv.org/abs/2309.00841
+- https://github.com/artitw/text2text
+- https://github.com/Karthick47v2/question-generator
+- https://github.com/huggingface/transformers/issues/4399
 
 
 ## Datasets
@@ -48,6 +53,7 @@ QA Dataset
 - XTreme: https://huggingface.co/datasets/xtreme
 - XCopa: https://huggingface.co/datasets/xcopa
 - mFAQ: https://huggingface.co/datasets/clips/mfaq
+- https://paperswithcode.com/datasets?task=question-answering&lang=italian&page=1
 
 Summary: https://nlpprogress.com/english/question_answering.html
 
