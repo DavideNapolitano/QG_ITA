@@ -22,6 +22,7 @@ Make a Question Generation model for TIM customers surveys
 - https://gpt-index.readthedocs.io/en/latest/examples/evaluation/QuestionGeneration.html
 - https://amontgomerie.github.io/2020/07/30/question-generator.html
 - https://arxiv.org/pdf/1909.05017.pdf
+- https://telrp.springeropen.com/articles/10.1186/s41039-021-00151-1
 
 ### Question Answering
 
