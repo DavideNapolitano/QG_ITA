@@ -61,6 +61,7 @@ Summary: https://nlpprogress.com/english/question_answering.html
 Collection: 
 - https://parl.ai/docs/tasks.html#qa-tasks
 - https://nlpprogress.com/english/question_answering.html
+- https://arxiv.org/abs/2206.15030
 
 ## Metrics
 - https://arxiv.org/pdf/2211.01482.pdf
