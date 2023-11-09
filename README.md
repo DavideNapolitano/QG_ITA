@@ -63,6 +63,17 @@ Collection:
 - https://nlpprogress.com/english/question_answering.html
 - https://arxiv.org/abs/2206.15030
 
+Survey:
+- https://www.pewresearch.org/internet/datasets/
+- https://datacatalog.worldbank.org/search/dataset/0037947/Enterprise-Surveys
+- https://mics.unicef.org/surveys
+
+Conversational:
+- https://arxiv.org/abs/2205.06907
+- http://aclanthology.lst.uni-saarland.de/W19-4101.pdf
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10280565/
+- https://dl.acm.org/doi/abs/10.1145/3539618.3591883
+
 ## Metrics
 - https://arxiv.org/pdf/2211.01482.pdf
 - ROUGE-L, BLEU, METEOR, Sentence Mover's Similarity, BERTScore
