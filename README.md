@@ -22,6 +22,7 @@ Make a Question Generation model for TIM customers surveys
 - https://gpt-index.readthedocs.io/en/latest/examples/evaluation/QuestionGeneration.html
 - https://amontgomerie.github.io/2020/07/30/question-generator.html
 - https://arxiv.org/pdf/1909.05017.pdf
+- https://telrp.springeropen.com/articles/10.1186/s41039-021-00151-1
 
 ### Question Answering
 
@@ -60,6 +61,18 @@ Summary: https://nlpprogress.com/english/question_answering.html
 Collection: 
 - https://parl.ai/docs/tasks.html#qa-tasks
 - https://nlpprogress.com/english/question_answering.html
+- https://arxiv.org/abs/2206.15030
+
+Survey:
+- https://www.pewresearch.org/internet/datasets/
+- https://datacatalog.worldbank.org/search/dataset/0037947/Enterprise-Surveys
+- https://mics.unicef.org/surveys
+
+Conversational:
+- https://arxiv.org/abs/2205.06907
+- http://aclanthology.lst.uni-saarland.de/W19-4101.pdf
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10280565/
+- https://dl.acm.org/doi/abs/10.1145/3539618.3591883
 
 ## Metrics
 - https://arxiv.org/pdf/2211.01482.pdf
