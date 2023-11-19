@@ -1,17 +1,21 @@
 <p align="center">
-  <img heith=300 width=300 src="https://github.com/DavideNapolitano/QG_ITA/blob/main/images/QA.png">
+  <img heith=350 width=350 src="https://github.com/DavideNapolitano/QG_ITA/blob/main/images/QA.png">
 </p>
 
 
 # QG_ITA
-Question Generator for the Italian Language
+Question Generator for the Italian Language.
 
 ## Description
-Make a Question Generation model for TIM customers surveys
+Develop a Question Generation model for TIM customers surveys.
 
 ## Related Works
-### Existing models and papers for QG
+Today, in the SOTA, the focus is placed mainly on the Question Answering task. As a consequence, few researches have been conducted during the latest years.
+For this reason, I collect existing models and approaches available for Question Generation and, in addition, I place some focus on Question Answering models based on LLMs. 
+Indeed, LLMs QA models are already capable of providing some questions during the conversations, making them suitable for some analysis and research for the QG task.
 
+
+### Existing models and papers for QG
 - https://huggingface.co/iarfmoose/t5-base-question-generator - https://github.com/AMontgomerie/question_generator
 - https://github.com/microsoft/unilm/tree/master/unilm
 - https://huggingface.co/voidful/context-only-question-generator
@@ -25,7 +29,6 @@ Make a Question Generation model for TIM customers surveys
 - https://telrp.springeropen.com/articles/10.1186/s41039-021-00151-1
 
 ### Question Answering
-
 - https://huggingface.co/docs/transformers/main/tasks/question_answering
 - https://github.com/stevezheng23/xlnet_extension_tf
 - https://github.com/openai/openai-cookbook/tree/main/examples
@@ -45,7 +48,10 @@ Make a Question Generation model for TIM customers surveys
 
 
 ## Datasets
-QA Dataset
+Today, all the existing datasets are for the QA task. However, this is not an issue since the two elements can be inverted to be suitable for QG: Q->A <-> A->Q.
+Following, I collect existing Italian and Multi-lingual QA datasets. Moreover, I also collect some datasets on Survey and Conversations, since related to our project, by taking into consideration that some additional steps will be required since all of them are in the English language.
+
+### QA Dataset
 - SQUaD-IT: https://huggingface.co/datasets/squad_it - http://sag.art.uniroma2.it/demo-software/squadit/
 - mMARCO: https://github.com/unicamp-dl/mMARCO
 - BELEBELE: https://huggingface.co/datasets/facebook/belebele
@@ -63,20 +69,24 @@ Collection:
 - https://nlpprogress.com/english/question_answering.html
 - https://arxiv.org/abs/2206.15030
 
-Survey:
+### Survey:
 - https://www.pewresearch.org/internet/datasets/
 - https://datacatalog.worldbank.org/search/dataset/0037947/Enterprise-Surveys
 - https://mics.unicef.org/surveys
 
-Conversational:
+### Conversational:
 - https://arxiv.org/abs/2205.06907
 - http://aclanthology.lst.uni-saarland.de/W19-4101.pdf
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10280565/
 - https://dl.acm.org/doi/abs/10.1145/3539618.3591883
 
 ## Metrics
+Here some metrics are collected. They are commonly used for QA and text matching.
+
 - https://arxiv.org/pdf/2211.01482.pdf
 - ROUGE-L, BLEU, METEOR, Sentence Mover's Similarity, BERTScore
 
 ## Others
+Addition material about LLMs for the QA task.
+
 DeepMind presentation: https://docs.google.com/presentation/d/1cML2FBrevPF0BtQu5QH_BL3dUbfn0egYyhTbOgwqlbA/edit?ref=ruder.io#slide=id.p1
