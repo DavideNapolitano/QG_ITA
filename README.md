@@ -7,7 +7,7 @@
 Question Generator for the Italian Language.
 
 ## Description
-Develop a Question Generation model for TIM customers surveys.
+Develop a Question Generation model for customers surveys.
 
 ## Related Works
 Today, in the SOTA, the focus is placed mainly on the Question Answering task. As a consequence, few researches have been conducted during the latest years.
