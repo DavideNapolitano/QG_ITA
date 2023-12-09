@@ -45,6 +45,9 @@ Indeed, LLMs QA models are already capable of providing some questions during th
 - https://github.com/artitw/text2text
 - https://github.com/Karthick47v2/question-generator
 - https://github.com/huggingface/transformers/issues/4399
+- https://vwo.com/blog/exploring-generative-ai-based-surveys-the-future-of-feedback/
+- https://arxiv.org/pdf/2306.02781.pdf
+- https://arxiv.org/pdf/2308.14328.pdf
 
 
 ## Datasets
